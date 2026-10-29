@@ -1,0 +1,6 @@
+HESABAT
+
+Tarix: 29.10.2026
+Layihə: Fayl Meneceri
+
+Proqram qovluqdakı .txt fayllarını sadalayır, açır, redaktə edir və silir.

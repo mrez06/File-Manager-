@@ -1,0 +1,5 @@
+Görüləcək işlər:
+1. Qovluğu seçmək
+2. Faylı açmaq
+3. Mətni dəyişdirmək
+4. Yadda saxlamaq

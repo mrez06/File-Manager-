@@ -1,0 +1,4 @@
+Salam! Bu fayl mətni burada göstərilir...
+
+Bu proqram C# Windows Forms ilə hazırlanıb.
+Mətni dəyişdirib "Yadda saxla" düyməsinə basa bilərsiniz.

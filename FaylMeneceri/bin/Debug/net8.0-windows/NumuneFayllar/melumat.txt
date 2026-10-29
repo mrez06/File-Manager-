@@ -1,0 +1,6 @@
+Fayl Meneceri haqqında məlumat
+
+Qovluq seç: Fərqli qovluq açır.
+Aç: Seçilmiş faylı açır.
+Yadda saxla: Mətndəki dəyişiklikləri saxlayır.
+Sil: Seçilmiş faylı təsdiqdən sonra silir.
